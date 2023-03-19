@@ -4,6 +4,7 @@
 - ⌨️ I'm learning technical writing in English and posting to [personal blog](https://lyumotech.com) and [dev.to blog](https://dev.to/lyumotech) from time to time.
 - ⚡ Some fun facts: 
   - I started programming because of video games 🎮
+  - Learning languages is one of my hobbies, and currently I study suomi and 日本語.
 
 <!--
 **msaveleva/msaveleva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
