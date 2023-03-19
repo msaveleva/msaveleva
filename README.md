@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 - 👩‍💻 My name's Maria, and I like creating stuff. 
-- ✍️ I'm currently working on [Lyumologs](https://github.com/msaveleva/lyumologs-ios), which is a native iOS app for everyday journaling. The app has a companion [web-page](https://lyumologs.com).
 - ⌨️ I'm learning technical writing in English and posting to [personal blog](https://lyumotech.com) and [dev.to blog](https://dev.to/lyumotech) from time to time.
 - ⚡ Some fun facts: 
-  - I statred programming because of video games 🎮
+  - I started programming because of video games 🎮
 
 <!--
 **msaveleva/msaveleva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
