@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👩‍💻 My name's Maria, and I like creating stuff. 
+- 👩‍💻 My name's Maria, and I like building stuff. 
 - ⌨️ I'm learning technical writing in English and posting to [personal blog](https://lyumotech.com) from time to time.
 - 🎮 As a hobby, I'm exploring game development and sharing my experience at [lyumogames page](https://lyumogames.com/).
 - ⚡ Some fun facts: 
